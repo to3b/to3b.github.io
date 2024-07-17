@@ -8,7 +8,7 @@ Some information about me!
 
 ### More Information
 
-My name is Toby, I am self-titled 'Cyber Security Researcher' and a future IT and Cyber Security student.
+My name is Toby, I am researching and sharing information about current Cyber Security and IT related news/information.
 
 ### Contact me
 
