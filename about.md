@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about me!
+My name is Toby, and I am a self-titled 'Cyber Security Researcher' and a future IT and Cyber Security student.
 
 ### More Information
 
-My name is Toby, I am researching and sharing information about current Cyber Security and IT related news/information.
+I am researching and sharing information about current Cyber Security and IT related news/information, frequently..
 
 ### Contact me
 
