@@ -736,7 +736,7 @@ code {
 }
 
 @media screen and (prefers-color-scheme: dark) {
-    *:not(img:hover, *:any-link:hover, *:any-link:hover) {
+    *:not(img:hover, p, h2, *:any-link:hover) {
         filter: invert()!important;
     }
 }
