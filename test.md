@@ -1,1 +1,5 @@
-![welcome](https://github.com/user-attachments/assets/a14dda84-c9af-435e-8352-9f772b6de3a2)
+```mermaid
+graph LR
+    A[Start] --> B{Is it?}
+    B -- Yes --> C[OK]
+    B -- No --> D[Not OK]
